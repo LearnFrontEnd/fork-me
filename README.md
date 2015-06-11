@@ -9,7 +9,7 @@
 
 ### 2. Clone your fork of the repo to your local machine
 
-![Clone Click](https://raw.githubusercontent.com/LearnFrontEnd/fork-me/master/img/clone_click.gif)
+![Clone Click](https://github.com/LearnFrontEnd/fork-me/blob/master/img/clone_link.gif)
 
 ```bash
 # in the terminal, use what you copy and pasted
