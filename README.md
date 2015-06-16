@@ -13,10 +13,13 @@ For this repo by clicking the fork button at the top of the screen.
 
 Clone your fork of the repo to your local machine.
 
+Copy and paste the Git URL in the sidebar.
+
 ![Clone Click](https://github.com/LearnFrontEnd/fork-me/blob/master/img/clone_link.gif)
 
+In the terminal, type `git clone`, followed by the git URL you copy and pasted.
+
 ```bash
-# in the terminal, use what you copy and pasted
 git clone git@github.com:YOURGITHUBUSERNAME/fork-me.git
 ```
 
